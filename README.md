@@ -1,4 +1,4 @@
-# my land calculator i made for fun
+# my land calculator i made for fun (python only)
 
 A python file to calculate land area and volume
 
@@ -10,3 +10,4 @@ A python file to calculate land area and volume
 # how to use
 1. make sure python is installed
 2. run the file
+
